@@ -1,0 +1,10 @@
+# Ignorar dependências instaladas
+node_modules/
+
+# Ignorar arquivos de configuração sensíveis
+.env
+
+# Ignorar arquivos temporários
+*.log
+.DS_Store
+dist/
